@@ -1,0 +1,15 @@
+* {
+    background-color: beige;
+}
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:darkslategrey;
+    text-align:center;
+    text-shadow: 1px 1px black;
+}
+
+ul {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:grey;
+}
