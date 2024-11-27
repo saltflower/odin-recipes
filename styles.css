@@ -1,15 +1,26 @@
 * {
     background-color: beige;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+p, h1, .parts {
+    color:darkslategrey;
 }
 
 h1 {
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    color:darkslategrey;
     text-align:center;
     text-shadow: 1px 1px black;
 }
 
-ul {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+ul, ol {
     color:grey;
+}
+
+li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.bottom {
+    text-align: center;
 }
